@@ -1,0 +1,33 @@
+
+*DAY2 : Poll Question*
+Which Feature of OOP illustrated parent child relationship
+a) Polymorphism
+b) Abstraction
+c) Encapsulation
+d) Inheritance
+
+Answer : D
+
+
+Does OOP provide better security than POP?
+a) Always true for any programming language
+b) May not be true with respect to all programming languages
+c) It depends on type of program
+d) It’s vice-versa is true
+
+Answer :A 
+
+
+Encapsulation and abstraction differ as ____________
+a) Binding and Hiding respectively
+b) Hiding and Binding respectively
+c) Can be used any way
+d) Hiding and hiding respectively
+
+Answer :A 
+
+Private members of structure can be accessed outside the structure in cpp
+a) true
+b) false
+
+Answer: B
